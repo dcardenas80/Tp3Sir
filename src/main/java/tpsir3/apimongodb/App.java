@@ -16,7 +16,7 @@ import tpsir3.apimongodb.datamodel.Person;
 public class App {
 	public static void main(String[] args) {
        App app = new App();
-    	//app.mongoDBTest();	   
+    	app.mongoDBTest();	   
     	app.redisExemple1();
     	app.redisExemple2();
     	try {
